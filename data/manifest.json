@@ -1,0 +1,22 @@
+{
+  "title": "Anatomy",
+  "quizzes": [
+    {"title": "Pectoral, shoulder & back muscles", "path": "data/001.json"},
+    {"title": "Axilla, axillary vessels", "path": "data/002.json"},
+    {"title": "Brachial plexus", "path": "data/003.json"},
+    {"title": "front, back of the arm & cubital fossa", "path": "data/004.json"},
+    {"title": "Front of the forearm, palm of the hand", "path": "data/005.json"},
+    {"title": "Back of forearm &dorsum of the Hand", "path": "data/006.json"},
+    {"title": "Joints of upper limb 1", "path": "data/007.json"},
+    {"title": "Joints of upper limb 2", "path": "data/008.json"},
+    {"title": "Front of the thigh", "path": "data/009.json"},
+    {"title": "Medial side of the thigh, Gluteal region", "path": "data/010.json"},
+    {"title": "Back of the thigh, popliteal fossa", "path": "data/011.json"},
+    {"title": "Anterior & lateral compartments of the leg, dorsum of foot", "path": "data/012.json"},
+    {"title": "Posterior compartment of leg, sole of foot", "path": "data/013.json"},
+    {"title": "TUT1: Anterior & posterior abdominal walls", "path": "data/tut01.json"},
+    {"title": "TUT2: Joints of lower limb", "path": "data/tut02.json"},
+    {"title": "CBL1: Brachial plexus and its major branches, nerve injuries", "path": "data/cbl01.json"},
+    {"title": "CBL2: Sciatic nerve injury and common peroneal nerve injury", "path": "data/cbl02.json"}
+  ]
+}
