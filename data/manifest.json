@@ -1,5 +1,5 @@
 {
-  "title": "Anatomy",
+  "title": "Pharmacology",
   "quizzes": [
     {"title": "Pectoral, shoulder & back muscles", "path": "data/001.json"},
     {"title": "Axilla, axillary vessels", "path": "data/002.json"},
