@@ -1,0 +1,148 @@
+{
+    "title": "Disease Modifying Therapy of Rheumatoid Arthritis",
+    "questions": [
+      {
+        "question": "1. Which of the following disease modifying anti-rheumatoid drugs is a prodrug?",
+        "options": [
+          "Etanercept",
+          "Colchicine",
+          "Methotrexate",
+          "Sulfasalazine",
+          "None of the above"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "2. Which of the following is a DMARD?",
+        "options": [
+          "Desforrixamine",
+          "Prednisone",
+          "Curare",
+          "Leflunamide",
+          "None of the above"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "3. All of the following drugs are DMARDs except:",
+        "options": [
+          "Chloroquine",
+          "Sulfasalazine",
+          "Etanercept",
+          "Prednisone",
+          "Methotrexate"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "4. Choose the correct statement about chloroquine:",
+        "options": [
+          "Acts on CD20 on B-cells",
+          "Blocks TNF",
+          "Inhibits cytokine release",
+          "Stabilizes lysosomes",
+          "Antifolate"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "5. Which of the following is the active metabolite of sulfasalazine that has effect in rheumatoid arthritis?",
+        "options": [
+          "Calcinurin",
+          "5-amino salicylic acid",
+          "6-thioguanine",
+          "Sulfapyridine",
+          "None of the above"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "6. Etanercept acts by one of the following mechanisms:",
+        "options": [
+          "By blocking tumor necrosis factor",
+          "By blocking bradykinin synthesis",
+          "By inhibiting cyclooxygenase-2",
+          "By blocking lipoxygenase",
+          "Antifolate"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "7. Regarding Rituximab, which of the following is true?",
+        "options": [
+          "It inhibits phosphorylation of calcineurin",
+          "It stabilizes lysosomes",
+          "It causes retinopathy with long term use",
+          "It is directed to CD20 antigen on pre-B-lymphocytes",
+          "All of the above"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "8. Methotrexate is given:",
+        "options": [
+          "Twice daily",
+          "Once daily",
+          "Once weekly",
+          "Twice weekly",
+          "None of the above"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "9. Regarding chloroquine, all of the following is true except:",
+        "options": [
+          "It is antimalarial",
+          "It causes ototoxicity with long term use",
+          "It stabilizes lysosomes",
+          "It blocks lipoxygenase",
+          "It is one of DMARDs"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "10. Choose the correct answer about leflunamide:",
+        "options": [
+          "It is given once weekly",
+          "It causes ototoxicity with long term use",
+          "It decreases dehydrogenase leading to decreased pyrimidine synthesis",
+          "It inhibits phosphorylation of calcineurin",
+          "None of the above"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "11. One of the monoclonal antibodies used in the treatment of rheumatoid arthritis is:",
+        "options": [
+          "Chloroquine",
+          "Leflunamide",
+          "Infliximab",
+          "Azathioprine",
+          "None of the above"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "12. One of the side effects of Etanercept is:",
+        "options": [
+          "Hypertension",
+          "Increased incidence of bacterial infection",
+          "Congestive heart failure",
+          "All of the above",
+          "None of the above"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "13. Which of the following is the most common side effect observed after methotrexate treatment of RA?",
+        "options": [
+          "Cytopenias, mucosal ulceration and nausea",
+          "Allergic reactions",
+          "Retinal damage and corneal opacity",
+          "Bone marrow depression and teratogenicity"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+  

@@ -1,0 +1,167 @@
+{
+    "title": "Pharmacology of the Neuromuscular Junction",
+    "questions": [
+      {
+        "question": "1. Effects seen only with depolarizing blockade include all of the following EXCEPT:",
+        "options": [
+          "Hyperkalemia",
+          "A decrease in intraocular pressure",
+          "Emesis",
+          "Muscle pain"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "2. Which neuromuscular blocking agent is contraindicated in patients with glaucoma?",
+        "options": [
+          "Tubocurarine",
+          "Succinylcholine",
+          "Pancuronium",
+          "Gallamine"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "3. Which of the following neuromuscular blocking agents cause cardiac arrhythmias?",
+        "options": [
+          "Vecuronium",
+          "Tubocurarine",
+          "Rapacuronium",
+          "Succinylcholine"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "4. Which neuromuscular blocking agent has the potential to cause the greatest release of histamine?",
+        "options": [
+          "Succinylcholine",
+          "Tubocurarine",
+          "Pancuronium",
+          "Rocuronium"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "5. Which of the following muscular relaxants causes hypotension and bronchospasm?",
+        "options": [
+          "Vecuronium",
+          "Succinylcholine",
+          "Tubocurarine",
+          "Rapacuronium"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "6. Which of the following diseases can augment the neuromuscular blockade produced by nondepolarizing muscle relaxants?",
+        "options": [
+          "Myasthenia gravis",
+          "Burns",
+          "Asthma",
+          "Parkinsonism"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "7. Indicate the agent which effectively antagonizes the neuromuscular blockade caused by nondepolarizing drugs:",
+        "options": [
+          "Atropine",
+          "Neostigmine",
+          "Acetylcholine",
+          "Pralidoxime"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "8. All of the following statements concerning neostigmine are correct EXCEPT that:",
+        "options": [
+          "It is a quaternary ammonium compound",
+          "It is a reversible anticholinesterase",
+          "It does not penetrate the blood brain barrier",
+          "It is used for prevention of motion sickness",
+          "It reverses neuromuscular blockade produced by competitive neuromuscular blocking agents"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "9. Depolarizing agents include all of the following properties EXCEPT:",
+        "options": [
+          "Interact with nicotinic receptors to compete with acetylcholine without receptor activation",
+          "React with nicotinic receptors to open the channel and cause depolarization of the end plate",
+          "Cause desensitization with a noncompetitive block manifested by flaccid paralysis",
+          "Cholinesterase inhibitors do not have the ability to reverse the blockade"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "10. Indicate the skeletal muscle relaxant which is a depolarizing agent:",
+        "options": [
+          "Veneuronium",
+          "Scopolamine",
+          "Succinylcholine",
+          "Hexamethonium"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "11. Which of the following drugs is a nondepolarizing muscle relaxant?",
+        "options": [
+          "Pancuronium",
+          "Succinylcholine",
+          "Hexamethonium",
+          "Scopolamine"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "12. Indicate the long-acting neuromuscular blocking agent:",
+        "options": [
+          "Rapacuronium",
+          "Mivacurium",
+          "Tubocurarine",
+          "Rocuronium"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "13. Which depolarizing agent has the extremely brief duration of action?",
+        "options": [
+          "Mivacurium",
+          "Rapacuronium",
+          "Rocuronium",
+          "Succinylcholine"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "14. Neuromuscular blockade by both succinylcholine and mivacurium may be prolonged in patients with:",
+        "options": [
+          "Renal failure",
+          "An abnormal variant of plasma cholinesterase",
+          "Hepatic disease",
+          "Both b and c"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "15. Which of the following neuromuscular blockers causes transient muscle fasciculations?",
+        "options": [
+          "Mivacurium",
+          "Pancuronium",
+          "Succinylcholine",
+          "Tubocurarine"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "16. All of the following drugs can block the action of acetylcholine on muscarinic receptors EXCEPT:",
+        "options": [
+          "Atropine",
+          "Scopolamine",
+          "Oxyphenonium",
+          "Edrophonium"
+        ],
+        "correct": 3
+      }
+    ]
+  }
+  

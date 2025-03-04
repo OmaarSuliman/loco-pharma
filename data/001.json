@@ -1,0 +1,56 @@
+{
+    "title": "Anticholinesterase",
+    "questions": [
+      {
+        "question": "1. Which anticholinesterase agent is most commonly used in the Tensilon test for diagnosing myasthenia gravis?",
+        "options": [
+          "Edrophonium",
+          "Neostigmine",
+          "Pyridostigmine",
+          "Physostigmine"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "2. Which anticholinesterase drug is primarily used for the chronic management of myasthenia gravis?",
+        "options": [
+          "Neostigmine",
+          "Pyridostigmine",
+          "Edrophonium",
+          "Physostigmine"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "3. Which anticholinesterase agent is able to cross the blood-brain barrier and is therefore useful in treating central anticholinergic toxicity?",
+        "options": [
+          "Neostigmine",
+          "Pyridostigmine",
+          "Physostigmine",
+          "Edrophonium"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "4. What is the primary mechanism of action of anticholinesterase agents?",
+        "options": [
+          "Inhibition of acetylcholinesterase, leading to increased acetylcholine at synapses",
+          "Blocking acetylcholine receptors",
+          "Enhancing release of acetylcholine from presynaptic terminals",
+          "Inhibition of acetylcholine synthesis"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "5. Which of the following is a common adverse effect of anticholinesterase therapy?",
+        "options": [
+          "Bradycardia",
+          "Tachycardia",
+          "Dry mouth",
+          "Dilated pupils"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+  

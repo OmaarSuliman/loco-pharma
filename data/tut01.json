@@ -1,0 +1,106 @@
+{
+    "title": "Drugs Affecting Calcium Metabolism",
+    "questions": [
+      {
+        "question": "1. Which of the following drugs is a bisphosphonate used in the management of osteoporosis?",
+        "options": [
+          "Alendronate",
+          "Calcitriol",
+          "Cinacalcet",
+          "Teriparatide"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "2. What is the primary mechanism of action of bisphosphonates?",
+        "options": [
+          "Inhibition of osteoclast-mediated bone resorption",
+          "Stimulation of bone formation",
+          "Inhibition of parathyroid hormone secretion",
+          "Activation of osteoblast function"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "3. Which vitamin D analog is primarily used to treat secondary hyperparathyroidism in patients with chronic renal failure?",
+        "options": [
+          "Calcitriol",
+          "Ergocalciferol",
+          "Cholecalciferol",
+          "Calcitonin"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "4. What is the primary mechanism of action of calcitonin in regulating calcium levels?",
+        "options": [
+          "Inhibition of osteoclast activity",
+          "Stimulation of renal calcium excretion",
+          "Enhancement of intestinal calcium absorption",
+          "Activation of osteoblast function"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "5. Which of the following is a calcimimetic used in the management of secondary hyperparathyroidism?",
+        "options": [
+          "Cinacalcet",
+          "Alendronate",
+          "Teriparatide",
+          "Zoledronic acid"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "6. Teriparatide, used in the treatment of osteoporosis, is an analog of which hormone?",
+        "options": [
+          "Parathyroid hormone",
+          "Calcitonin",
+          "Calcitriol",
+          "Thyroxine"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "7. Which drug is associated with the adverse effect of osteonecrosis of the jaw with long-term use?",
+        "options": [
+          "Alendronate",
+          "Calcitriol",
+          "Cinacalcet",
+          "Teriparatide"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "8. Zoledronic acid belongs to which class of drugs?",
+        "options": [
+          "Bisphosphonates",
+          "Calcitonin",
+          "Calcimimetics",
+          "Vitamin D analogs"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "9. What is a common side effect of calcitonin therapy?",
+        "options": [
+          "Nausea",
+          "Hypocalcemia",
+          "Hypercalcemia",
+          "Renal failure"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "10. In patients with chronic kidney disease and secondary hyperparathyroidism, which drug lowers parathyroid hormone levels by enhancing calcium-sensing receptor sensitivity?",
+        "options": [
+          "Cinacalcet",
+          "Alendronate",
+          "Calcitriol",
+          "Teriparatide"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+  

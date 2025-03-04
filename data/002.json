@@ -1,0 +1,46 @@
+{
+    "title": "Therapy of Acute Gout & Management of Hyperuricemia",
+    "questions": [
+      {
+        "question": "1. Why should aspirin not be given in gout?",
+        "options": [
+          "It increases uric acid absorption",
+          "It has the same effect as uric acid",
+          "It occuples uric acid kidney transporters",
+          "It decreases uric acid metabolism"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "2. Which one of the following drugs can be used in acute gouty arthritis?",
+        "options": [
+          "Propencid",
+          "Allopurinol",
+          "Corticosteroids",
+          "Uricase enzyme"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "3. Which medication is most appropriate for the chronic management of hyperuricemia in gout patients?",
+        "options": [
+          "Allopurinol",
+          "Colchicine",
+          "NSAIDs",
+          "Corticosteroids"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "4. What is the mechanism of action of allopurinol in the management of hyperuricemia?",
+        "options": [
+          "Inhibition of xanthine oxidase",
+          "Stimulation of renal uric acid excretion",
+          "Activation of uricase",
+          "Blockade of purine synthesis"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+  
