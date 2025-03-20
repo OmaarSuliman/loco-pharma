@@ -1,10 +1,10 @@
 {
   "title": "Pharmacology",
   "quizzes": [
-    {"title": "Anticholineesterase", "path": "data/001.json"},
-    {"title": "Therapy of acute gout & management of hyperuricemia", "path": "data/002.json"},
-    {"title": "Pharmacology of the neuromuscular junction", "path": "data/003.json"},
-    {"title": "Disease modifying therapy of rheumatoid arthritis", "path": "data/004.json"},
-    {"title": "TUT: Drugs affecting calcium metabolism", "path": "data/tut01.json"}
+    {"title": "Anticholineesterase", "path": "data/pharma_001.json"},
+    {"title": "Therapy of acute gout & management of hyperuricemia", "path": "data/pharma_002.json"},
+    {"title": "Pharmacology of the neuromuscular junction", "path": "data/pharma_003.json"},
+    {"title": "Disease modifying therapy of rheumatoid arthritis", "path": "data/pharma_004.json"},
+    {"title": "TUT: Drugs affecting calcium metabolism", "path": "data/pharma_tut01.json"}
   ]
 }
